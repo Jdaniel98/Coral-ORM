@@ -14,8 +14,7 @@ Coral ORM is a simple Object-Relational Mapping (ORM) library for Python, design
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/coral-orm.git
-   cd coral-orm
+   git clone https://github.com/Jdaniel98/Coral-ORM.git
    ```
 
 2. Install the required dependencies:
